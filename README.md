@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msinjin
 - 👀 I’m interested in science, data science and solving difficult problems
 - 🌱 I’m currently solving cool problems at [BDO Lixar](https://lixar.com)
-- 💞️ I’m looking to collaborate on problems of the environment (climate change), social justice and saving democracy
+- 💞️ I’m looking to collaborate on problems of the environment (climate change), social justice and democracy
 - 📫 How to reach me: mark@msjsci.com
 
 <!---
